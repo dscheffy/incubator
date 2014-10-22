@@ -53,4 +53,5 @@ Of all the branches in this repo, the following are being considered for leaving
 
 branch | clone command
 -------|--------------
-[sample application](../../../tree/incubate/sample-app)|`git clone --single-branch --branch incubate/sample-app https://github.com/dscheffy/incubator.git sample-app`[sample project](../../../tree/incubate/sample-project)|`git clone --single-branch --branch incubate/sample-project https://github.com/dscheffy/incubator.git sample-project`
+[sample application](../../../tree/incubate/sample-app)|`git clone --single-branch --branch incubate/sample-app https://github.com/dscheffy/incubator.git sample-app`
+[sample project](../../../tree/incubate/sample-project)|`git clone --single-branch --branch incubate/sample-project https://github.com/dscheffy/incubator.git sample-project`
