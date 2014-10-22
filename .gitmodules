@@ -1,0 +1,3 @@
+[submodule "applications/sample-app"]
+	path = applications/sample-app
+	url = https://github.com/dscheffy/incubator.git
