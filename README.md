@@ -1,6 +1,6 @@
 # Incubator
 
-This project is intended to how a company that's too cheapo to pay for more private repositories can use branches on an incubator project to incubate new applications while their waiting for the finance group to give the go-ahead on creating a dedicated github hosting repository for them.
+This project is intended to show how a company that's too cheap to pay for multiple private repositories can use branches on an incubator project to incubate new applications while they're waiting for the finance group to give the go-ahead on creating a dedicated github hosting repository for them.
 
 ## Usage
 
