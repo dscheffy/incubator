@@ -20,4 +20,4 @@ Of all the branches in this repo, the following are being considered for leaving
 
 branch | clone command
 -------|--------------
-[sample application](../../../tree/application/sample-app)|`git clone --single-branch --branch application/sample-app https://github.com/dscheffy/incubator.git sample-app`
+[sample application](../../../tree/incubate/sample-app)|`git clone --single-branch --branch incubate/sample-app https://github.com/dscheffy/incubator.git sample-app`
